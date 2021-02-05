@@ -5,6 +5,8 @@ Projeto Desenvolvido durante as aulas de HTML5 + CSS3 da Alura
 
 O projeto conta com uma landing page para você escolher a versão desenvolvida durante o curso ou a versão onde reimaginei como seria a melhor forma de exibir as informações da Barbearia Alura.
 
+Confira o projeto ao vivo pelo link: https://ehayashi.com/work/html-css-alura/
+
 ### Observação
 * Já tinha um conhecimento prévio de HTML5 e CSS3, mas foi bom rever e compreender melhor algumas práticas;
 * A versão que reimaginei foi feita basicamente com tudo o que aprendi ao longo do curso, talvez um ou outro ponto fui procurar na internet;
